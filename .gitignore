@@ -109,4 +109,7 @@ venv.bak/
 # Ignore all .html files as they have sensitive information
 *.html
 
-
+# Ignore the data folders everywhere 
+/01\ Slark\ Scraper/data/*
+/02\ Data\ Preprocessing/data/*
+ 
