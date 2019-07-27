@@ -103,5 +103,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Usernames CSV file to protect privacy 
-usernames.csv
+# Ignore all .csv files as they have sensitive information 
+*.csv
+
+# Ignore all .html files as they have sensitive information
+*.html
+
+
